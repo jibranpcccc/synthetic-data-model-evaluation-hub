@@ -4,10 +4,17 @@
     <title>Synthetic Data &amp; Model Evaluation Hub</title>
     <link>https://synthetic-data-model-evaluation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:06:17 GMT</lastBuildDate>
     <atom:link href="https://synthetic-data-model-evaluation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
+      <link>https://t.me/techcrunch</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/synthetic-data-model-evaluation-hub/#synthetic-data-model-evaluation-hub-telegram-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:06:17 GMT</pubDate>
+      <description>Newly verified community added to Synthetic Data &amp; Model Evaluation Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
       <link>https://discord.gg/tech</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/synthetic-data-model-evaluation-hub/#synthetic-data-model-evaluation-hub-discord-20261017-1-2026-10-17</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/synthetic-data-model-evaluation-hub/#synthetic-data-model-evaluation-hub-reddit-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:19:54 GMT</pubDate>
       <description>Newly verified community added to Synthetic Data &amp; Model Evaluation Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>Synthetic Data &amp; Model Evaluation Hub Initial Release</title>
-      <link>https://synthetic-data-model-evaluation-hub.vercel.app/</link>
-      <pubDate>Wed, 16 Sep 2026 09:47:14 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
